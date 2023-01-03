@@ -1,0 +1,1 @@
+(() => { "use strict"; const o = { name: "humail", email: "mazyme@gmail.com", dob: new Date(2e3, 1, 1) }; console.log("-------- Student Profile ------"), console.log(o.name), console.log(o.email), console.log(o.dob), console.log("------ Faculty Name ------"), console.log("abcc"), console.log("------- Events Name ------"), console.log("hhhafg") })();
